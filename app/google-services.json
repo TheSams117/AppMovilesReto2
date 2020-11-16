@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446356295521",
+    "firebase_url": "https://appmoviles-reto2.firebaseio.com",
+    "project_id": "appmoviles-reto2",
+    "storage_bucket": "appmoviles-reto2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446356295521:android:d032a3759183ad850ebf20",
+        "android_client_info": {
+          "package_name": "appmoviles.com.reto2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446356295521-eeu17l7qg1uptmpkchkfgcirnmrpqlvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "appmoviles.com.reto2",
+            "certificate_hash": "019c756e2c5aaf04f5a319df1f7621e1ba0ec5f9"
+          }
+        },
+        {
+          "client_id": "446356295521-q3bops67ai49io0pvfakrrjeu9fvk3g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYp_zWqrvYj8fOUmE6PCtztw5HcdriCyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446356295521-q3bops67ai49io0pvfakrrjeu9fvk3g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
